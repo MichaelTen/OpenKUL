@@ -136,5 +136,3 @@ OpenKUL is intended to work with these as well, not tied to any single backend.
 5. Grow community-authored `.kul` asset packs
 
 ```
-Would you like me to also prepare a **short example manifest** that shows the combined style (UO-like) vs. separated style (modern), so readers can see both side by side?
-```
